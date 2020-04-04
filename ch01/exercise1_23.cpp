@@ -20,7 +20,7 @@ int main()
 				cnt = 1;
 			}
 		}
-		std::cout << currItem << " occurs " << cnt << " times " << std::endl;
+		//std::cout << currItem << " occurs " << cnt << " times " << std::endl;
 	}
 	return 0;
 }
